@@ -1,0 +1,41 @@
+.pd-alert {
+	padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.pd-alert.success {
+	color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+.pd-alert.danger{
+	color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+.donation-amount-group .donation-amount.custom-donation-ammount {
+    height: 50px;
+    line-height: 48px;
+    display: none;
+    vertical-align: top;
+    border: 1px solid #fcb20b;
+    padding: 1px 1px 1px 10px;
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+.donation-amount-group .donation-amount.custom-donation-ammount input {
+    position: relative;
+    display: inline-block;
+    width: 70px !important;
+    opacity: 1;
+    line-height: 46px !important;
+    padding: 0 !important;
+    border: none !important;
+    vertical-align: top;
+    font-size: 2.2rem !important;
+    font-weight: 700;
+}
+.donation-amount-group .donation-amount.custom-donation-ammount.input-show {
+    display: inline-block;
+}

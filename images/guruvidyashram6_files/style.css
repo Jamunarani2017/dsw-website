@@ -7708,11 +7708,11 @@ h1, h2, h3, h4, h5,
     padding: 30px;
     color: rgba(0, 0, 0, 0.7); }
     .ftco-intro .block-18.color-1 {
-      background: #fa8f3d; }
+      background: #f86f2d; }
     .ftco-intro .block-18.color-2 {
-      background: #faaa3a; }
+      background: #fa8f3d; }
     .ftco-intro .block-18.color-3 {
-      background: #faaa3acc; }
+      background: #faaa3a; }
     .ftco-intro .block-18 .text strong {
       font-size: 60px;
       color: #000;
@@ -8276,17 +8276,18 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
+  padding: 7em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 1em 0; } }
+      padding: 6em 0; } }
 
 .ftco-bg-dark {
   background: #3c312e; }
 
 .ftco-footer {
   font-size: 16px;
-  padding: 1em 0;
+  padding: 7em 0;
   background: #252525; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
@@ -9168,36 +9169,3 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
-
-
-.single-counter {
-  background: #ff6b57de none repeat scroll 0 0;
-  border-radius: 4px;
-  box-shadow: 0 7px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0);
-  color: #fff;
-  padding: 50px 30px;
-  text-align: center;
-  margin-bottom: 30px;
-}
-.counter-area .row .col-md-3:nth-child(2) .single-counter{background:#9B59B6}
-.counter-area .row .col-md-3:nth-child(3) .single-counter{background:#41C3AC}
-.counter-area .row .col-md-3:nth-child(4) .single-counter{background:#3498DB}
-}
-
-.second-box-counter{
-  background: #9b59b6 none repeat scroll 0 0;
-}
-
-.single-counter p {
-  display: block;
-  font-size: 16px;
-  font-weight: 500;
-}
-
-.single-counter span {
-  color: #fff;
-  display: inline-block;
-  font-size: 45px;
-  line-height: 1;
-  margin: 0;
-}

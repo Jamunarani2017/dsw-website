@@ -7785,7 +7785,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .9;
-    background: #f86f2d; }
+    background: #F86DE9; }
   .ftco-section-3 .img {
     width: 100%; }
   .ftco-section-3 .img-2 {
@@ -9201,3 +9201,6 @@ textarea.form-control {
   line-height: 1;
   margin: 0;
 }
+
+.address-phone-email{
+color:black !important;}

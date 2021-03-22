@@ -1,0 +1,11 @@
+.sreen-mock {
+    background-image: url(../images/screen-phone.png);
+    background-position: center center;
+    background-size: contain;
+    height: 585px;
+    width: 312px;
+    position: relative;
+    left: 50%;
+    margin-bottom: -585px;
+    transform: translateX(-50%);
+}

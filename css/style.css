@@ -5002,7 +5002,7 @@ button.bg-light:focus {
   background-color: #dae0e5 !important; }
 
 .bg-dark {
-  background-color: #343a40 !important; }
+  background-color: #252525 !important; }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
@@ -7317,12 +7317,12 @@ h1, h2, h3, h4, h5,
 }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background: #252525;
   position: absolute;
   left: 0;
   right: 0;
   z-index: 3;
-  top: 10px; }
+   }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
       background: #000 !important;

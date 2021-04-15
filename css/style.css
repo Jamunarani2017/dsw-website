@@ -7517,7 +7517,7 @@ h1, h2, h3, h4, h5,
       .slider-text h1 {
         font-size: 40px; } }
   .slider-text p {
-    font-size: 20px;
+    font-size: 40px;
     line-height: 1.5;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.8); }
@@ -8312,14 +8312,6 @@ textarea.form-control {
     position: relative;
     text-transform: uppercase;
     letter-spacing: 1px; }
-    .ftco-footer .ftco-footer-widget h2:after {
-      position: absolute;
-      bottom: -15px;
-      left: 0;
-      content: '';
-      width: 70px;
-      height: 1px;
-      background: #fff; }
   .ftco-footer .ftco-footer-widget ul li a span {
     color: #fff; }
   .ftco-footer .ftco-footer-widget .btn-primary {
